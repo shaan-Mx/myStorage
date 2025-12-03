@@ -1,1 +1,12 @@
-
+{
+  "users": [
+    {
+      "name": "shaan",
+      "pwd": "shaan"
+    },
+    {
+      "name": "guest",
+      "pwd": "nothing"
+    },
+  ]
+}
