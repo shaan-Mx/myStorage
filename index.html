@@ -1,35 +1,61 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.jade.min.css">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.jade.min.css"
+    />
     <title>Shaan Storage</title>
     <style>
-    header {
-      background-color: var(--pico-background-color);
-      color: var(--pico-color);
-    }
+      header {
+        background-color: var(--pico-background-color);
+        color: var(--pico-color);
+      }
+      .big {
+        font-size: 2em;
+      }
     </style>
-</head>
-<body class="container">
+  </head>
+  <body class="container">
     <header>
-        <h1>Shaan Storage</h1>
+      <nav>
+        <ul>
+          <li><strong class="Primary">Shaan Storage</strong></li>
+        </ul>
+        <ul>
+          <li><a href="#">Json</a></li>
+          <li><button class="secondary">Images</button></li>
+        </ul>
+      </nav>
     </header>
     <main class="container">
-        <section>
-            <h2>Dev purpose</h2>
-            <p>Some data usefull for dev testing.</p>
-        </section>
-        <section>
-            <h2>JSON files</h2>
-            <ul>
-                <li><a href="./json/tuto-api-products-full.json">🗎 Products full (156 items)</a></li>
-            </ul>
-        </section>
+      <section>
+        <h2>Dev purpose</h2>
+        <p>Some data usefull for dev testing.</p>
+      </section>
+      <section>
+        <h2>JSON files</h2>
+        <ul>
+          <li>
+            <a href="./json/tuto-api-products-full.json"
+              ><span class="big">🗎</span> Products full (156 items)</a
+            >
+          </li>
+          <li>
+            <a href="./json/tuto-api-products.json"
+              ><span class="big">🗎</span> Products short (2 items)</a
+            >
+          </li>
+        </ul>
+      </section>
+      <section>
+        <h2>Images</h2>
+      </section>
     </main>
     <footer>
-        <p>2026</p>
+      <p>©️ Shaan 2026</p>
     </footer>
-</body>
+  </body>
 </html>
