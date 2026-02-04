@@ -1,0 +1,133 @@
+[
+  {
+    "id": 1,
+    "q": "Las señales de tránsito se clasiﬁcan en:",
+    "am": [
+      {
+        "title": "Preventivas",
+        "lib": "Advierten peligro.",
+        "color": "Amarillas",
+        "imgs": [
+          "p1-r1-1.png",
+          "p1-r1-2.png",
+          "p1-r1-3.png"
+        ]
+      },
+      {
+        "title": "Restrictivas",
+        "lib": "Limitan o prohíben, tienen el objeto de regular el tránsito.",
+        "color": "Rojas con negro",
+        "imgs": [
+          "p1-r2-1.png",
+          "p1-r2-2.png",
+          "p1-r2-3.png"
+        ]
+      },
+      {
+        "title": "Informativas",
+        "lib": "Tienen por objeto servir de guía para  localizar o identiﬁcar calles o carreteras, así como nombres  de poblaciones y lugares de interés, con servicios existentes. ",
+        "color": "Azules",
+        "imgs": [
+          "p1-r3-1.png",
+          "p1-r3-2.png",
+          "p1-r3-3.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "q": "¿Cuántos pasajeros pueden viajar dentro de un vehículo?",
+    "a": "Los indicados en la tarjeta de circulación."
+  },
+  {
+    "id": 3,
+    "q": "Por conducir sin licencia, se hace acreedor a una multa consiste en:",
+    "a": "De 16 a 20 UMAS."
+  },
+  {
+    "id": 4,
+    "q": "¿Quién está obligado a utilizar el cinturón de seguridad dentro de un vehículo?",
+    "a": "Todos los pasajeros del vehículo."
+  },
+  {
+    "id": 5,
+    "q": "En centros educativos, oficinas públicas hospitales o cualquier otro lugar de reunión ¿Cuál es el límite de velocidad permitido para circular?",
+    "a": "20 kilómetros por hora."
+  },
+  {
+    "id": 6,
+    "q": "¿Bajo qué circunstancias es permitida la vuelta a la derecha?",
+    "a": "En ningún caso."
+  },
+  {
+    "id": 7,
+    "q": "¿En qué lugares está prohibido el estacionamiento de cualquier tipo de vehículo?",
+    "a": "Camellones, frente a rampas especiales de acceso a la banqueta  para personas con discapacidad, en más de una ﬁla, andadores y otras vías reservadas a los peatones."
+  },
+  {
+    "id": 8,
+    "q": "¿En qué caso a un vehículo matriculado fuera del Estado de México se le podrá retirar la placa de matrícula?",
+    "a": "Cuando se detecte con adeudos por infracciones al Reglamento de Tránsito."
+  },
+  {
+    "id": 9,
+    "q": "¿En qué caso pueden circular los vehículos de servicio público por los carriles centrales de las vías primarias?",
+    "a": "En ningún caso."
+  },
+  {
+    "id": 10,
+    "q": "Si un pasajero arroja basura hacia el exterior del vehículo; ¿Quién es el responsable y por lo tanto acreedor de la sanción?",
+    "a": "El conductor del vehículo."
+  },
+  {
+    "id": 11,
+    "q": "¿Qué tipos de vehículos podrán circular con los vidrios polarizados?",
+    "a": "Los vehículos que vengan instalados con vidrios polarizados desde la fábrica."
+  },
+  {
+    "id": 12,
+    "q": "En las glorietas sin semáforos; ¿Quién tiene la preferencia?",
+    "a": "Los vehículos que ya se encuentren circulando en ella."
+  },
+  {
+    "id": 13,
+    "q": "En caso de que el vehículo produzca un ruido excesivo generado por el claxon o válvulas de escape; ¿Cuál será la sanción?",
+    "a": "Multa de 3 a 5 UMAS."
+  },
+  {
+    "id": 14,
+    "q": "¿Qué casos están prohibidos realizar en la vía pública?",
+    "a": "Efectuar carreras o 'arrancones' o situar cualquier otro objeto que obstaculice o afecte la vialidad."
+  },
+  {
+    "id": 15,
+    "q": "Es una regla para los motociclistas y su acompañante:",
+    "a": "El uso de casco y anteojos protectores, con las especiﬁcaciones de seguridad establecidas en la norma."
+  },
+  {
+    "id": 16,
+    "q": "¿Cuándo deben de ir acompañados por una persona mayor, los menores de edad con un permiso provisional de práctica?",
+    "a": "Siempre y el acompañante deberá portar una licencia vigente."
+  },
+  {
+    "id": 17,
+    "q": "Todos los vehículos automotores de uso particular deberán contar con:",
+    "a": "Póliza de seguro de responsabilidad civil vigente que ampare al menos daños a terceros en su persona y en su patrimonio."
+  },
+  {
+    "id": 18,
+    "q": "Son causas de cancelación de la licencia:",
+    "a": "Manejar bajo los efectos de drogas enervantes o psicotrópicos, así como, conducir en estado de ebriedad."
+  },
+  {
+    "id": 19,
+    "q": "¿Qué deben de hacer los conductores cuando el semáforo se  encuentra en luz roja?",
+    "a": "Detener su vehículo en la línea de 'alto', sin invadir la zona para cruce de los peatones."
+  },
+  {
+    "id": 20,
+    "q": "¿Está permitido realizar llamadas por el celular mientras conduce un vehículo?",
+    "a": "No está permitido."
+  }
+]
