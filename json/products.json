@@ -1,1 +1,7 @@
-[]
+[
+  {
+    "_test": true,
+    "_written": "2026-02-18T02:43:09.622Z",
+    "_script": "test-github.ts"
+  }
+]
